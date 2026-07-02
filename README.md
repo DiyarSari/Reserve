@@ -11,7 +11,6 @@ Reserve, restoran keşfi ve masa rezervasyonunu tek akışta birleştiren PHP ve
 <p><img width="480" alt="Screenshot 2026-07-02 at 19 28 44" src="https://github.com/user-attachments/assets/bcbc79b0-4799-437e-90e8-04fc1b157ec3" /></p>
 <p><img width="480" alt="Screenshot 2026-07-02 at 19 29 23" src="https://github.com/user-attachments/assets/ead6d0be-65e1-497f-a9f6-5a44a34008da" /></p>
 
-> Additional screenshots will be added when needed.
 
 
 ## Features
