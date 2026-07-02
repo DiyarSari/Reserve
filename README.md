@@ -1,6 +1,6 @@
 # Reserve
 
-Reserve, restoran keşfi ve masa rezervasyonunu tek akışta birleştiren PHP ve MySQL tabanlı bir rezervasyon platformudur. Sistem; kullanıcılar, restoran hostları ve yöneticiler için ayrı çalışma alanları sunar. Bilingual arayüz, QR tabanlı check-in ve rol bazlı yönetim panelleriyle günlük operasyonları sadeleştirir.
+Reserve, restoran keşfi ve masa rezervasyonunu tek akışta birleştiren PHP ve MySQL tabanlı bir rezervasyon platformudur. Sistem; kullanıcılar, restoran hostları ve yöneticiler için ayrı çalışma alanları sunar. Türkçe ve İngilizce dil desteği, QR tabanlı check-in ve rol bazlı yönetim panelleriyle günlük operasyonları sadeleştirir.
 
 ## 📸 Project Images
 
