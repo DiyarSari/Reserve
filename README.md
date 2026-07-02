@@ -4,12 +4,12 @@ Reserve, restoran keşfi ve masa rezervasyonunu tek akışta birleştiren PHP ve
 
 ## 📸 Project Images
 
-<img width="480" alt="ChatGPT Image 2 Tem 2026 19_37_57" src="https://github.com/user-attachments/assets/5388736f-498e-4c18-99c9-97db080a74d9" />
-<img width="280" alt="WhatsApp Image 2026-07-02 at 19 32 43" src="https://github.com/user-attachments/assets/6c82cbd2-0327-483c-8931-238dcd343715" />
-<img width="480" alt="Screenshot 2026-07-02 at 19 27 50" src="https://github.com/user-attachments/assets/b2ee6234-fd40-40f8-abfc-54b29f599b7f" />
-<img width="480" alt="Screenshot 2026-07-02 at 19 28 16" src="https://github.com/user-attachments/assets/9b73d1e2-7bcd-404a-a9d2-102e726db027" />
-<img width="480" alt="Screenshot 2026-07-02 at 19 28 44" src="https://github.com/user-attachments/assets/bcbc79b0-4799-437e-90e8-04fc1b157ec3" />
-<img width="480" alt="Screenshot 2026-07-02 at 19 29 23" src="https://github.com/user-attachments/assets/ead6d0be-65e1-497f-a9f6-5a44a34008da" />
+<p><img width="480" alt="ChatGPT Image 2 Tem 2026 19_37_57" src="https://github.com/user-attachments/assets/5388736f-498e-4c18-99c9-97db080a74d9" /></p>
+<p><img width="280" alt="WhatsApp Image 2026-07-02 at 19 32 43" src="https://github.com/user-attachments/assets/6c82cbd2-0327-483c-8931-238dcd343715" /></p>
+<p><img width="480" alt="Screenshot 2026-07-02 at 19 27 50" src="https://github.com/user-attachments/assets/b2ee6234-fd40-40f8-abfc-54b29f599b7f" /></p>
+<p><img width="480" alt="Screenshot 2026-07-02 at 19 28 16" src="https://github.com/user-attachments/assets/9b73d1e2-7bcd-404a-a9d2-102e726db027" /></p>
+<p><img width="480" alt="Screenshot 2026-07-02 at 19 28 44" src="https://github.com/user-attachments/assets/bcbc79b0-4799-437e-90e8-04fc1b157ec3" /></p>
+<p><img width="480" alt="Screenshot 2026-07-02 at 19 29 23" src="https://github.com/user-attachments/assets/ead6d0be-65e1-497f-a9f6-5a44a34008da" /></p>
 
 > Additional screenshots will be added when needed.
 
